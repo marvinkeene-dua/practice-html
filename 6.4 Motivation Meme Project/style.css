@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Libre Baskerville", system-ui;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+p {
+  text-align: center;
+  color: white;
+}
+html {
+  background-color: black;
+}
+
+#photo {
+  margin-top: 20px;
+  border-color: white;
+}
